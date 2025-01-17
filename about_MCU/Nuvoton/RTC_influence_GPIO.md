@@ -11,13 +11,13 @@
 - Vbat会对PF6-PF11引脚有影响
   - en-us--TRM_M460_Series_EN_Rev1.03.PDF
 
-!(https://github.com/rickliu23/recording-document/blob/main/about_MCU/Nuvoton/resource/RTC_influence_GPIO.assets/Figure_6.2-7.png)
+![Figure_6.2-7](https://github.com/rickliu23/picture_resource/blob/main/recording-document/about_MCU/Nuvoton/RTC_influence_GPIO/Figure_6.2-7.png?raw=true)
 
-!(https://github.com/rickliu23/recording-document/blob/main/about_MCU/Nuvoton/resource/RTC_influence_GPIO.assets/image%20(2).png)
+![backup_domain](https://github.com/rickliu23/picture_resource/blob/main/recording-document/about_MCU/Nuvoton/RTC_influence_GPIO/backup_domain.png?raw=true)
 
 + 下图为RTC寄存器的某一个位说明，该位影响到了相关引脚的控制权
 
-!([D:\document\github\recording-document\about_MCU\Nuvoton\resource\RTC_influence_GPIO.assets\image (1).png](https://github.com/rickliu23/recording-document/blob/main/about_MCU/Nuvoton/resource/RTC_influence_GPIO.assets/image%20(1).png))
+![bit_desp](https://github.com/rickliu23/picture_resource/blob/main/recording-document/about_MCU/Nuvoton/RTC_influence_GPIO/bit_desp.png?raw=true)
 
 
 
